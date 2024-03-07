@@ -1,13 +1,8 @@
 # Hello Welcome To My Github Account 😄 
  - Full Name : Ilham Lutfi
- - Nickname : Ilham, Lutfi, Ufi
- - Age : 23 years old
  - Nationality : Indonesia
  - Religion : Islam
- - Hobby : Reading, Writing, Listening music, Coding ⚡ 
- - Email address : ilhamlutfi153@gmail.com
  - Private web : https://ilhamlutfi.github.io
- - Blogging at : https://webseoxpert.com and https://mubatekno.com
 
 # Tutorial Programming
 Please visit my channel to see exciting web programming tutorials : [Muba Teknologi Youtube](https://youtube.com/@mubateknologi)
