@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [RSUD Sekayu](https://rsudsekayu.mubakab.go.id)
 
-- 🌱 I’m currently learning **Laravel, Vue Js, React Js**
+- 🌱 I’m currently learning **Laravel, Adonis Js, And Vue Js**
 
 - 📫 How to reach me **ilhamlutfi153@gmail.com**
 
