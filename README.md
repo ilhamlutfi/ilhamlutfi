@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilham Lutfi</h1>
-<h3 align="center">A passionate backend web developer from Indonesia <img src="https://cdn.worldvectorlogo.com/logos/indonesi.svg" alt="indonesia" width="40"/> </h3>
+<h3 align="center">A passionate backend web developer from Indonesia <img src="https://cdn.worldvectorlogo.com/logos/indonesia.svg" alt="indonesia" width="40"/> </h3>
 <p align="center">
     <i>From river to the sea, Palestine will be free 
         <img src="https://cdn.worldvectorlogo.com/logos/flag-of-state-of-palestine.svg" alt="palestine" width="70" style="vertical-align: middle;"/>
@@ -30,5 +30,4 @@
 <code><img height="20" src="https://www.aapanel.com/static/images/bt_logo.png" title="Aapanel"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"></code>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamlutfi&" alt="ilhamlutfi" /></p>
-
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamlutfi&" alt="ilhamlutfi" /></p>
