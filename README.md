@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilham Lutfi</h1>
 <h3 align="center">A passionate backend web developer from Indonesia <img src="https://cdn.worldvectorlogo.com/logos/indonesi.svg" alt="indonesia" width="40"/> </h3>
-<h4 align="center"><i>From river to the sea, Palestine will be free <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/800px-Flag_of_Palestine.svg.png?20230715225310" alt="palestine" width="40" style="vertical-align: middle; margin-top: -10px"/></i>
+<h4 align="center"><i>From river to the sea, Palestine will be free <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/800px-Flag_of_Palestine.svg.png?20230715225310" alt="palestine" width="40" style="vertical-align: middle;"/></i>
 </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilhamlutfi&label=Profile%20views&color=0e75b6&style=flat" alt="ilhamlutfi" /> </p>
