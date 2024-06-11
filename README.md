@@ -27,4 +27,4 @@
 <code><img height="20" src="https://www.aapanel.com/static/images/bt_logo.png" title="Aapanel"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"></code>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamlutfi&" alt="ilhamlutfi" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamlutfi&" alt="ilhamlutfi" /></p>
