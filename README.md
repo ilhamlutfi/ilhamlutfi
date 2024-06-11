@@ -2,6 +2,7 @@
 <h3 align="center">A passionate backend web developer from Indonesia <img src="https://cdn.worldvectorlogo.com/logos/indonesi.svg" alt="indonesia" width="40"/> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilhamlutfi&label=Profile%20views&color=0e75b6&style=flat" alt="ilhamlutfi" /> </p>
+<p><i>From river to the sea, Palestine will be free <img src="https://cdn.worldvectorlogo.com/logos/flag-of-state-of-palestine.svg" alt="palestine" width="20"/></i></p>
 
 - 🔭 I’m currently working on [RSUD Sekayu](https://rsudsekayu.mubakab.go.id) and [PT. Someah Kreatif Nusantara](https://someah.id)
 
