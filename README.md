@@ -17,14 +17,12 @@
 
 **Frameworks and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" title="Laravel"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" title="CodeIgniter"></code>
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/adonisjs.svg" title="AdonisJs"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" title="Bootstrap"></code>
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmLME0hpAJOqBGhaVjcgkk8hIKS3S4GAqrLg&s" title="jQuery"></code>
-<code><img height="20" src="https://w7.pngwing.com/pngs/717/111/png-transparent-mysql-round-logo-tech-companies-thumbnail.png" title="MySQL"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" title="Linux Ubuntu"></code>
-<code><img height="20" src="https://www.aapanel.com/static/images/bt_logo.png" title="Aapanel"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"></code>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamlutfi&" alt="ilhamlutfi" /></p>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" title="Laravel"></code>
+<code><img height="25" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" title="CodeIgniter"></code>
+<code><img height="25" src="https://cdn.worldvectorlogo.com/logos/adonisjs.svg" title="AdonisJs"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" title="Bootstrap"></code>
+<code><img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmLME0hpAJOqBGhaVjcgkk8hIKS3S4GAqrLg&s" title="jQuery"></code>
+<code><img height="25" src="https://w7.pngwing.com/pngs/717/111/png-transparent-mysql-round-logo-tech-companies-thumbnail.png" title="MySQL"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" title="Linux Ubuntu"></code>
+<code><img height="25" src="https://www.aapanel.com/static/images/bt_logo.png" title="Aapanel"></code>
+<code><img height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"></code>
