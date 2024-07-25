@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ilhamlutfi153@gmail.com**
 
-**Founder Of Muba Teknologi**
+**Creator Of Muba Teknologi**
 <p>Muba Teknologi, a Web Programming Learning Platform for Indonesian Language Beginners<p>
 <a href="https://mubatekno.com" target="_blank"> <img src="https://mubatekno.com/mubatekno-logo.png" alt="postman" width="200px"/> </a>
 
