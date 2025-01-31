@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilhamlutfi&label=Profile%20views&color=0e75b6&style=flat" alt="ilhamlutfi" /> </p>
 
-- 🔭 I’m currently working on [RSUD Sekayu](https://rsudsekayu.mubakab.go.id) and [PT. Someah Kreatif Nusantara](https://someah.id)
+- 🔭 I’m currently working on [RSUD Sekayu](https://rsudsekayu.mubakab.go.id)
 
-- 🌱 I’m currently learning **Laravel, Inertia Js, And Vue Js/Nuxt Js**
+- 🌱 I’m currently learning **Laravel, Adonis JS, And Vue Js**
 
 - 📫 How to reach me **ilhamlutfi153@gmail.com**
 
