@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [RSUD Sekayu](https://rsudsekayu.mubakab.go.id)
 
-- 🌱 I’m currently learning **Laravel, Adonis JS, And Vue Js**
+- 🌱 I’m currently learning **Laravel, Express.js, And Vue.js**
 
 - 📫 How to reach me **ilhamlutfi153@gmail.com**
 
@@ -19,6 +19,7 @@
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" title="Laravel"></code>
 <code><img height="25" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" title="CodeIgniter"></code>
+<code><img height="25" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-thumbnail.png" title="ExpressJS"></code>
 <code><img height="25" src="https://avatars.githubusercontent.com/u/13810373" title="AdonisJS"></code>
 <code><img height="25" src="https://www.svgrepo.com/show/354528/vue.svg" title="VueJs"></code>
 <code><img height="25" src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" title="InertiaJs"></code>
