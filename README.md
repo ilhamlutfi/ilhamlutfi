@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilhamlutfi&label=Profile%20views&color=0e75b6&style=flat" alt="ilhamlutfi" /> </p>
 
-- 🔭 I’m currently working on [RSUD Sekayu](https://rsudsekayu.mubakab.go.id)
+- 🔭 I’m currently working on [Sekayu Regional General Hospital (RSUD Sekayu)](https://rsudsekayu.mubakab.go.id)
 
 - 🌱 I’m currently learning **Laravel, Express.js, And Vue.js**
 
-- 📫 How to reach me **ilhamlutfi153@gmail.com**
+- 📫 Feel free to reach out for remote job opportunities or freelance projects **ilhamlutfi153@gmail.com**
 
 **Creator Of Muba Teknologi**
 <p>Muba Teknologi, a Web Programming Learning Platform for Indonesian Language Beginners<p>
