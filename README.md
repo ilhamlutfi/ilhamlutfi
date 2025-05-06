@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ilhamlutfi/app-rsudsekayu/refs/heads/main/public/github-header-image.png?token=GHSAT0AAAAAACXXZHRHUUBUTCVX4KGOE3CU2AY3TWQ" alt="Ilham Lutfi" width="100%" />
+  <img src="https://ilhamlutfi.github.io/assets/img/github-header-image.png" alt="Ilham Lutfi" width="100%" />
 </p>
 
 <!-- <h1 align="center">Hi 👋, I'm Ilham Lutfi</h1> -->
