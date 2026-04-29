@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://ilhamlutfi.github.io/assets/img/github-header-image.png" alt="Ilham Lutfi" width="100%" />
-</p>
-
-<!-- <h1 align="center">Hi 👋, I'm Ilham Lutfi</h1> -->
+<h1 align="center">Hi 👋, I'm Ilham Lutfi</h1>
 <h3 align="center">A passionate backend web developer from Indonesia <img src="https://cdn.worldvectorlogo.com/logos/indonesi.svg" alt="indonesia" width="40"/> </h3>
 <h4 align="center"><i>From river to the sea, Palestine will be free</i>
 </h4>
